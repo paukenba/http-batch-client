@@ -1,5 +1,5 @@
 {
-  "name": "ideasoft/batch-request-client",
+  "name": "paukenba/batch-request-client",
   "description": "Batch request client implementation for php.",
   "keywords" : ["batch request", "api", "request"],
   "type": "library",
